@@ -37,6 +37,11 @@ I am a passionate Front-End Developer with expertise in creating responsive and 
 ## 📊 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&layout=compact&theme=transparent)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=transparent)
+
 <!--
 ## 🚀 Projects
 
