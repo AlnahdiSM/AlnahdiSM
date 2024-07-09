@@ -1,6 +1,5 @@
 ## Salem Alnahdi 😀
 
-<div>
 <div style="display: flex; align-items: center;justify-content: center">
   <div>
     - 👋 Hi, I'm Salem Alnahdi, a Frontend Developer.<br />
@@ -27,7 +26,6 @@
       style="margin-top: 20px"
     >
   </div>
-</div>
 
 <!--
 **AlnahdiSM/AlnahdiSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
