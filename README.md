@@ -9,7 +9,7 @@
     Next.js.<br />
     - 📫 How to reach me: Email => alnahdi4b@gmail.com.<br />
   </div>
-  <img src="./giphy.gif" style="height: 200px; margin-left: 10px" />
+  <img src="./giphy.gif" align="center" />
 </div>
 <hr />
   <div style="display: flex; align-items: center;justify-content: center">
