@@ -23,8 +23,7 @@
   <div style="display: flex; align-items: center;justify-content: center">
     <img
       src="https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=flat&no-frame=true& margin-w=30"
-      style="margin-top: 20px"
-    >
+      style="margin-top: 20px"/>
   </div>
 
 <!--
