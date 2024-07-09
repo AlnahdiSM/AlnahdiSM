@@ -1,6 +1,6 @@
 ## Salem Alnahdi 😀
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; r">
   <div>
     - 👋 Hi, I'm Salem Alnahdi, a Frontend Developer.<br/>
     - 🏠 I live in Yemen - Mukalla.<br/>
@@ -8,7 +8,7 @@
     - 💬 Ask me about: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js.<br/>
     - 📫 How to reach me: Email => alnahdi4b@gmail.com.<br/>
   </div>
-  <img src="/mnt/data/giphy.gif" style="height: 100px; margin-left: 10px;" />
+  <img src="./giphy.gif" style="height: 200px; margin-left: 10px;" />
 </div>
 <hr/>
 <div style="display: flex; align-items: center;">
