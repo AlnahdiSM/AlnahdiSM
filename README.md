@@ -14,18 +14,17 @@
 <hr />
   <div style="display: flex; align-items: center;justify-content: center">
   <img
-      src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true"
+      src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&show_icons=true&theme=transparent"
       style="height: 180px"/>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&hide_title=true&layout=compact"
       style="height: 180px; margin-left: 10px"/>
   </div>
-  <div style="display: flex; align-items: center;justify-content: center">
+ <div style="display: flex; align-items: center;justify-content: center">
     <img
       src="https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=flat&no-frame=true& margin-w=30"
       style="margin-top: 20px"/>
   </div>
-
 <!--
 **AlnahdiSM/AlnahdiSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
