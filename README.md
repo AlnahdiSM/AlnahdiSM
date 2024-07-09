@@ -1,14 +1,24 @@
 ## Salem Alnahdi 😀
 
-- 👋 Hi, I'm Salem Alnahdi, a Frontend Developer.
-- 🏠 I live in Yemen - Mukalla.
-- 🌱 I’m currently learning and improving my skills.
-- 💬 Ask me about: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js.
-- 📫 How to reach me: Email => alnahdi4b@gmail.com.
+<div style="display: flex; align-items: center;">
+  <div>
+    - 👋 Hi, I'm Salem Alnahdi, a Frontend Developer.<br/>
+    - 🏠 I live in Yemen - Mukalla.<br/>
+    - 🌱 I’m currently learning and improving my skills.<br/>
+    - 💬 Ask me about: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js.<br/>
+    - 📫 How to reach me: Email => alnahdi4b@gmail.com.<br/>
+  </div>
+  <img src="/mnt/data/giphy.gif" style="height: 100px; margin-left: 10px;" />
+</div>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=flat&no-frame=true&margin-w=30" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&hide_title=true&layout=compact" />
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&hide_title=true&layout=compact" style="height: 195px; margin-left: 10px;" />
+</div>
+<img src="https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=flat&no-frame=true&margin-w=30" style="margin-top: 20px;" />
+
+
+
 
 
 <!--
