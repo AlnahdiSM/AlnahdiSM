@@ -12,8 +12,8 @@
 </div>
 <hr/>
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&hide_title=true&layout=compact" style="height: 195px; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true" style="height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnahdiSM&hide_title=true&layout=compact" style="height: 180px; margin-left: 10px;" />
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=AlnahdiSM&theme=flat&no-frame=true&margin-w=30" style="margin-top: 20px;" />
 
