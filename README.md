@@ -28,7 +28,7 @@ I am a passionate Front-End Developer with expertise in creating responsive and 
 
 ## 📈 GitHub Stats
 
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlnahdiSM&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=AlnahdiSM&count_private=true&show_icons=true&hide_title=true" />
 
 ## 🔥 GitHub Streak
 
