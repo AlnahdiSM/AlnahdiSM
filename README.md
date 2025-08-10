@@ -7,7 +7,7 @@
 I am a passionate Front-End Developer with expertise in creating responsive and interactive web applications. I love coding, contributing to open source projects, and sharing knowledge with the community.
 
 - 👋 Hi, I'm Salem Alnahdi, a Frontend Developer.
-- 🏠 I live in Yemen - Mukalla.
+- 🏠 I live in Saudi Arabia - Riyadh.
 - 🌱 I’m currently learning and improving my skills.
 - 💬 Ask me about: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js.
 - 📫 How to reach me: Email => alnahdi4b@gmail.com.
